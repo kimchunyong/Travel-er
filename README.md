@@ -20,6 +20,7 @@
 
 2. 2주차 (05.19 ~ 05.25)
     - 개발환경구성(보일플레이트 사용 X, Eslint,prettier,Babel,Axios)
+    - API 조사
     
 3. 3주차 
 
