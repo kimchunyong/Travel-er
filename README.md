@@ -13,19 +13,26 @@
 
 ## 기간
 
-1. 1주차 (05.12 ~ 05.18)
+1. 1주차
 
    - 요구분석사항정리
    - 용어정리
    - UI,UX 화면 정리
    - 각자 개발환경 구성에 대한 자료 및 공부해오기
 
-2. 2주차 (05.19 ~ 05.25)
+2. 2주차
 
    - 개발환경구성(보일플레이트 사용 X, Eslint,prettier,Babel,Axios)
-   - API 조사
 
 3. 3주차
+    - 문제 해결하기(API문제 발생)
+    - API 조사
+        - 날씨
+            1. 날씨 api (https://www.wunderground.com/)
+            2. https://openweathermap.org/API
+            3. https://weatherplanet.docs.apiary.io/#reference/global
+        - 지도
+            1. 구글맵 API
 
 ## 커밋 규칙
 
